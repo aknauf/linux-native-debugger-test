@@ -1,0 +1,7 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="linux.native-debugger-test" type="GradleKonanAppRunConfiguration" factoryName="Application" TARGET_TYPE="linux_x64" TARGET="linux" BINARY="native-debugger-test" PROGRAM_PARAMS="--tests &quot;sample.SampleTests.testHello&quot;" WORKING_DIR="$PROJECT_DIR$">
+    <method v="2">
+      <option name="com.jetbrains.konan.IdeaKonanBuildBeforeRunTask" enabled="true" />
+    </method>
+  </configuration>
+</component>
